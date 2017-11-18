@@ -3,7 +3,7 @@
     <version value = "1"/>
     <list>
         <mapping class= "com.example.defance2016.coolwether.db.City"/>
-        <mapping class="com.example.defance2016.coolwether.db.Country"/>
+        <mapping class="com.example.defance2016.coolwether.db.County"/>
         <mapping class="com.example.defance2016.coolwether.db.Province"/>
     </list>
 </litepal>
